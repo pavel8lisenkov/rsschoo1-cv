@@ -464,6 +464,9 @@ section {
     margin-top: 30px;  
 }
 
+.skills__item {
+    font-weight: normal;
+
 footer {
     display: flex;
     flex-wrap: wrap;
