@@ -464,6 +464,10 @@ section {
     margin-top: 30px;  
 }
 
+.cv__columns-rigth {
+    margin-top: 30px;
+}
+
 .skills__item {
     font-weight: normal;
 }
