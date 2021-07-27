@@ -461,25 +461,9 @@ p {
     margin-bottom: 30px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.skills {
+    margin-bottom: 30px;  
+}
 
 footer {
     display: flex;
@@ -487,5 +471,3 @@ footer {
     justify-content: space-evenly;
     align-items: center;
 }
-
-
