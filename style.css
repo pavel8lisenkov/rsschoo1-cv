@@ -400,7 +400,6 @@ main {
     display: grid;
     grid-template-columns: 500px 170px;
     grid-column-gap: 80px;
-    margin-bottom: 30px;
 }
 
 .cv__columns {
@@ -461,7 +460,7 @@ p {
     margin-bottom: 30px;
 }
 
-.language {
+section {
     margin-top: 30px;  
 }
 
